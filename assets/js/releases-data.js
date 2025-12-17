@@ -1,0 +1,1 @@
+(()=>{window.SESSIONAIRE_RELEASES=[{version:"v1.4.1",date:"2025-12-17",downloadUrl:"https://github.com/sessionaire/sessionaire/releases/download/v1.4.1/sessionaire-v1.4.1.xpi",releaseUrl:"https://github.com/sessionaire/sessionaire/releases/tag/v1.4.1",changelog:["build: Initial public release"]}];})();
